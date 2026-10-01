@@ -1,0 +1,115 @@
+<document>
+  <page>
+    <table rows="1" cols="9">
+      <row>
+        <cell>K</cell>
+        <cell />
+        <cell>PUTUSAN</cell>
+        <cell />
+        <cell>M</cell>
+        <cell />
+        <cell>NTERI AGAMA N 2024</cell>
+        <cell />
+        <cell>RI</cell>
+      </row>
+    </table>
+    <table rows="5" cols="2">
+      <row>
+        <cell colspan="2" />
+      </row>
+      <row>
+        <cell />
+        <cell />
+      </row>
+      <row>
+        <cell colspan="2">E</cell>
+      </row>
+      <row>
+        <cell />
+        <cell />
+      </row>
+      <row>
+        <cell colspan="2" />
+      </row>
+    </table>
+    <table rows="5" cols="2">
+      <row>
+        <cell colspan="2" />
+      </row>
+      <row>
+        <cell />
+        <cell />
+      </row>
+      <row>
+        <cell colspan="2">E</cell>
+      </row>
+      <row>
+        <cell />
+        <cell />
+      </row>
+      <row>
+        <cell colspan="2" />
+      </row>
+    </table>
+    <table rows="3" cols="7">
+      <row>
+        <cell rowspan="3">NOMOR 450 TA</cell>
+        <cell />
+        <cell />
+        <cell />
+        <cell rowspan="2" />
+        <cell rowspan="2" />
+        <cell rowspan="2" />
+      </row>
+      <row>
+        <cell />
+        <cell colspan="3">H</cell>
+        <cell />
+        <cell />
+        <cell />
+      </row>
+      <row>
+        <cell />
+        <cell />
+        <cell />
+        <cell />
+        <cell colspan="3">U</cell>
+      </row>
+    </table>
+    <table rows="1" cols="2">
+      <row>
+        <cell>Agama Republik Indonesi</cell>
+        <cell>a</cell>
+      </row>
+    </table>
+    <table rows="1" cols="2">
+      <row>
+        <cell>Direktorat Jendera</cell>
+        <cell>l</cell>
+      </row>
+    </table>
+    <table rows="2" cols="3">
+      <row>
+        <cell rowspan="2">Isla</cell>
+        <cell colspan="2">m</cell>
+      </row>
+      <row>
+        <cell />
+        <cell />
+        <cell />
+      </row>
+    </table>
+    <table rows="1" cols="2">
+      <row>
+        <cell>Pendidika</cell>
+        <cell>n</cell>
+      </row>
+    </table>
+    <table rows="1" cols="2">
+      <row>
+        <cell>Kementeria</cell>
+        <cell>n</cell>
+      </row>
+    </table>
+  </page>
+</document>
